@@ -5,9 +5,7 @@ Example:
 
 Finnegans Wake, James Joyce
 
-(Where bababadalgharaghtakamminarronnkonnbronntonner
-ronntuonnthunntrovarrhounawnskawntoohoohoordenenthur
-nuk! is a word)
+(Where bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk! is a word)
 
 Total number of words in text including duplicates: 225362
 Number of distinct words in this text 75002
